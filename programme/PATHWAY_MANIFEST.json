@@ -34,6 +34,7 @@
       "source_baseline_status": "verified",
       "candidate_assets": [
         "OS-A01-A01",
+        "OS-A01-A02",
         "OS-A01-A06"
       ]
     }

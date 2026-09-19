@@ -1,0 +1,22 @@
+{
+  "asset_id": "OS-A01-A02",
+  "module_id": "OS-A01",
+  "title": "National Information Ecosystem Executive Brief",
+  "asset_type": "executive_brief",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "formats": [
+    "DOCX",
+    "PDF"
+  ],
+  "page_count": 5,
+  "audience": "Senior leaders of national statistical offices and national statistical systems",
+  "decision_boundary": "Authorizes an ecosystem diagnostic and screening; does not authorize automated official estimates or operational AI deployment.",
+  "generated_utc": "2026-09-19T14:31:43.405396+00:00",
+  "installation_validation": {
+    "result": "PASS",
+    "validated_date": "2026-09-19",
+    "installed_files": 4,
+    "all_hashes_match": true
+  }
+}

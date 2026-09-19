@@ -14,3 +14,14 @@
 - Synthetic-data and assurance warnings present: PASS
 
 Validation used a temporary output directory which was removed after verification.
+
+## Standalone portability validation
+
+- Standalone notebook execution: PASS
+- Preinstalled datasets available: No
+- Automatic public dataset retrieval: PASS
+- Datasets downloaded: 7
+- Code cells executed: 16
+- Evidence outputs generated: 7
+- Referential integrity: PASS
+- Laboratory assertions: PASS

@@ -2,10 +2,10 @@
   "pathway": "Official Statistics and AI",
   "module_id": "OS-A01",
   "module_title": "The National Information Ecosystem",
-  "release_version": "0.1.0-rc1",
-  "release_tag": "os-a01-v0.1.0-rc1",
+  "release_version": "0.1.0-rc2",
+  "release_tag": "os-a01-v0.1.0-rc2",
   "status": "release_candidate",
-  "generated_utc": "2026-09-19T19:19:18.976884+00:00",
+  "generated_utc": "2026-09-19T20:12:23.215782+00:00",
   "asset_count": 10,
   "candidate_assets": [
     "OS-A01-A01",
@@ -87,5 +87,13 @@
     "status": "integration_pending",
     "route": "/official-statistics/modules/a1/"
   },
-  "validation_result": "PASS"
+  "validation_result": "PASS",
+  "notebook_portability": {
+    "status": "validated",
+    "standalone_execution": "PASS",
+    "automatic_data_retrieval": "PASS",
+    "datasets": 7,
+    "code_cells": 16,
+    "outputs": 7
+  }
 }

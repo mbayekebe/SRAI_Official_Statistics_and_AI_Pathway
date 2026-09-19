@@ -22,5 +22,17 @@
     "datasets_loaded": 7,
     "outputs_generated": 7,
     "referential_integrity": "PASS"
+  },
+  "portable_execution": {
+    "result": "PASS",
+    "validated_utc": "2026-09-19T20:10:41Z",
+    "scenario": "Standalone notebook with no preinstalled data",
+    "automatic_dataset_download": "PASS",
+    "datasets_downloaded": 7,
+    "code_cells_executed": 16,
+    "outputs_generated": 7,
+    "referential_integrity": "PASS",
+    "laboratory_assertions": "PASS",
+    "data_source": "Public synthetic Kintaba datasets from the OS-A01 GitHub repository"
   }
 }

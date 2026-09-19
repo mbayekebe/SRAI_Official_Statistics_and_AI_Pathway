@@ -15,6 +15,8 @@
 - PDF deliverables present: PASS
 - YouTube video published: PASS
 - YouTube URL: https://youtu.be/TwsjImRahW0
-- Release version: 0.1.0-rc1
-- Release tag: os-a01-v0.1.0-rc1
+- Release version: 0.1.0-rc2
+- Release tag: os-a01-v0.1.0-rc2
 - Website integration: pending
+- Standalone notebook portability: PASS
+- Automatic Kintaba dataset retrieval: PASS

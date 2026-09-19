@@ -1,0 +1,23 @@
+{
+  "asset_id": "OS-A01-A10",
+  "module_id": "OS-A01",
+  "title": "National Information Ecosystem Mapping Toolkit",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "format": "XLSX",
+  "workbook_sheets": 8,
+  "formula_cells": 103,
+  "data_validation_rules": 30,
+  "source_baseline": "National_Information_Ecosystem_Mapping_Toolkit_V1.xlsx",
+  "destination": "institutional-toolkit",
+  "intended_use": "Structured mapping of institutions, data assets, data flows, user needs, coordination arrangements, risks and actions",
+  "installation_validation": {
+    "result": "PASS",
+    "validated_date": "2026-09-19",
+    "workbook_hash_match": true,
+    "worksheets": 8,
+    "formula_cells": 103,
+    "data_validation_rules": 30,
+    "stored_formula_errors": 0
+  }
+}

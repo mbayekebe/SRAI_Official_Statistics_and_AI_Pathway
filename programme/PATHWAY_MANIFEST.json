@@ -27,7 +27,7 @@
       "block": "A",
       "sequence": 1,
       "title": "The National Information Ecosystem",
-      "status": "asset_production_in_progress",
+      "status": "candidate_complete",
       "release_version": null,
       "release_tag": null,
       "website_route": "/official-statistics/modules/a1/",
@@ -41,7 +41,8 @@
         "OS-A01-A06",
         "OS-A01-A07",
         "OS-A01-A08",
-        "OS-A01-A09"
+        "OS-A01-A09",
+        "OS-A01-A10"
       ]
     }
   ]

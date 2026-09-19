@@ -1,0 +1,11 @@
+asset_id,asset_name,custodian_id,data_type,frequency,geographic_level,access,timeliness_days,completeness_pct,common_identifier,fitness_score
+AST-01,Annual Agricultural Production Survey,ACT-01,Survey microdata,Annual,District,Controlled,120,92,holding_id,4
+AST-02,Agricultural Census and Holding Frame,ACT-01,Census and frame,Decennial,Enumeration area,Controlled,730,86,holding_id,3
+AST-03,Seasonal Crop Estimates,ACT-02,Official aggregate,Seasonal,Region,Internal tables,75,88,none,3
+AST-04,Extension Crop-Condition Forms,ACT-03,Administrative records,Monthly,Locality,Internal,20,76,none,2
+AST-05,Registered Parcel Records,ACT-04,Administrative geospatial,Continuous,Parcel,Restricted,30,61,parcel_id,2
+AST-06,Weather Station Observations,ACT-05,Sensor time series,Daily,Station,By request,2,77,station_id,4
+AST-07,Food-Security Integrated Alerts,ACT-06,Analytical product,Seasonal,District,Government,45,80,district_code,4
+AST-08,Crop Variety Trials,ACT-07,Experimental data,Campaign,Site,Research agreement,150,95,trial_site_id,3
+AST-09,Satellite Crop Classification,ACT-08,Model output / raster,Pilot,Pixel and district,Project controlled,30,84,geometry,3
+AST-10,Weekly Market Prices,ACT-09,Phone-collected prices,Weekly,Market,Internal / bulletin,7,83,market_id,4

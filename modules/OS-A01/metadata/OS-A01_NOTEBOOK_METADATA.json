@@ -1,0 +1,26 @@
+{
+  "asset_id": "OS-A01-A06",
+  "module_id": "OS-A01",
+  "title": "National Information Ecosystem Laboratory",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "estimated_minutes": 150,
+  "practice_share_pct": 65,
+  "case_country": "Kintaba (synthetic)",
+  "runtime": "Python 3.10+; pandas; matplotlib",
+  "source_baseline": "Block_A1_Complete_Teaching_Package_National_Information_Ecosystem_V1.docx",
+  "data_classification": "Public synthetic learning data",
+  "generated_utc": "2026-09-19T13:55:15.609662+00:00",
+  "local_validation": {
+    "result": "PASS",
+    "validated_utc": "2026-09-19T14:08:53Z",
+    "platform": "Windows 11",
+    "python": "3.13.14",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.1",
+    "code_cells_executed": 16,
+    "datasets_loaded": 7,
+    "outputs_generated": 7,
+    "referential_integrity": "PASS"
+  }
+}

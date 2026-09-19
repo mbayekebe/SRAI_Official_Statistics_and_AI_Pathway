@@ -1,0 +1,9 @@
+evidence_id,claim,implication,quality
+EVD-01,Statistical law assigns NSS coordination to ACT-01 and designated sector producers.,"Authority exists, but operational coordination must be evidenced.",Documented
+EVD-02,MoU requires ACT-02 microdata and metadata within 90 days; last year only tables were sent.,Data-sharing compliance and metadata are weak.,Documented
+EVD-03,Two maize estimates are 4.8m and 4.2m tonnes for the same season without definitions or revisions.,Reconciliation and provenance are required before modelling.,Documented
+EVD-04,Satellite classifier reported 86% accuracy on 600 labelled fields in three accessible districts.,Promising pilot evidence is not national fitness evidence.,Limited external validity
+EVD-05,Two varieties had higher mean yields under controlled water at trial sites.,Trial efficacy does not establish adoption outcomes.,"Experimental, narrow scope"
+EVD-06,Food-security alerts are due six weeks before the annual survey result.,Timeliness gap supports nowcasting exploration.,Documented
+EVD-07,"Holdings, parcels, extension forms and survey records lack common identifiers.",Record linkage is a major methodological risk.,Documented
+EVD-08,Geospatial project has eight months of funding and one analyst.,Sustainability and key-person dependency are critical.,Documented

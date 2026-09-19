@@ -1,0 +1,9 @@
+flow_id,source_actor_id,destination_actor_id,asset_id,mechanism,frequency,formal_agreement,risk
+FLW-01,ACT-03,ACT-02,AST-04,Monthly forms,Monthly,Operational instruction,Road-access selection bias
+FLW-02,ACT-02,ACT-01,AST-03,Tables; microdata expected by MoU,Seasonal,"MoU, 90-day requirement",Only tables delivered last year
+FLW-03,ACT-01,ACT-06,AST-01,Validated aggregates,Annual,NSS coordination,Arrives after alert deadline
+FLW-04,ACT-05,ACT-06,AST-06,Data extract,Weekly,Inter-agency practice,19 stations missing
+FLW-05,ACT-09,ACT-06,AST-10,Spreadsheet / bulletin,Weekly,Routine exchange,Selected-market coverage
+FLW-06,ACT-08,ACT-02,AST-09,Pilot project files,Pilot,Project agreement,Short funding and one analyst
+FLW-07,ACT-04,ACT-01,AST-05,Ad hoc extract,Irregular,None,No common identifier; customary land absent
+FLW-08,ACT-10,ACT-06,AST-07,Proposed aggregate indicator feed,Not established,None,"Governance, representativeness and continuity"

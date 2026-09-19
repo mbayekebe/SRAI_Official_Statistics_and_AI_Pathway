@@ -1,0 +1,6 @@
+opportunity_id,title,need_id,inputs,public_value,data_readiness,methodological_risk,operational_readiness,recommended_disposition
+AIO-01,District crop-condition nowcast,NED-01,AST-04;AST-06;AST-09;AST-10,5,3,5,2,Controlled pilot only
+AIO-02,Estimate reconciliation assistant,NED-02,AST-01;AST-03,5,2,4,3,Metadata and provenance first
+AIO-03,Holding-frame update prioritization,NED-03,AST-02;AST-04;AST-05;AST-09,4,2,5,2,Research prototype
+AIO-04,Crop-stress anomaly detection,NED-04,AST-04;AST-06;AST-09,4,3,4,2,Controlled pilot only
+AIO-05,Irrigation coverage gap detection,NED-05,AST-01;AST-04;AST-05;AST-09,4,2,5,2,Do not automate; improve source data

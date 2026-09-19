@@ -1,36 +1,40 @@
-﻿{
-    "schema_version":  "0.1",
-    "pathway":  {
-                    "code":  "OS",
-                    "name":  "SRAI Official Statistics and AI Pathway",
-                    "status":  "in_development",
-                    "repository":  "SRAI_Official_Statistics_and_AI_Pathway",
-                    "website_root":  "/official-statistics/",
-                    "language":  "en"
-                },
-    "curriculum":  {
-                       "blocks":  [
-                                      "A Official statistics and AI foundations",
-                                      "B Productive and verifiable daily practice",
-                                      "C Data quality and fitness for use",
-                                      "D Governance confidentiality ethics and security",
-                                      "E Methods validation and statistical assurance",
-                                      "F Domain and data origin laboratories",
-                                      "G Institutional implementation and change",
-                                      "H Controlled workplace capstone",
-                                      "I Trainer and facilitator pathway"
-                                  ]
-                   },
-    "modules":  [
-                    {
-                        "code":  "OS-A01",
-                        "block":  "A",
-                        "sequence":  1,
-                        "title":  "The National Information Ecosystem",
-                        "status":  "source_baseline_verified",
-                        "release_version":  null,
-                        "release_tag":  null,
-                        "website_route":  "/official-statistics/modules/a1/"
-                    }
-                ]
+{
+  "schema_version": "0.1",
+  "pathway": {
+    "code": "OS",
+    "name": "SRAI Official Statistics and AI Pathway",
+    "status": "in_development",
+    "repository": "SRAI_Official_Statistics_and_AI_Pathway",
+    "website_root": "/official-statistics/",
+    "language": "en"
+  },
+  "curriculum": {
+    "blocks": [
+      "A Official statistics and AI foundations",
+      "B Productive and verifiable daily practice",
+      "C Data quality and fitness for use",
+      "D Governance confidentiality ethics and security",
+      "E Methods validation and statistical assurance",
+      "F Domain and data origin laboratories",
+      "G Institutional implementation and change",
+      "H Controlled workplace capstone",
+      "I Trainer and facilitator pathway"
+    ]
+  },
+  "modules": [
+    {
+      "code": "OS-A01",
+      "block": "A",
+      "sequence": 1,
+      "title": "The National Information Ecosystem",
+      "status": "asset_production_in_progress",
+      "release_version": null,
+      "release_tag": null,
+      "website_route": "/official-statistics/modules/a1/",
+      "source_baseline_status": "verified",
+      "candidate_assets": [
+        "OS-A01-A06"
+      ]
+    }
+  ]
 }

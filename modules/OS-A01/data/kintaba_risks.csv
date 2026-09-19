@@ -1,0 +1,7 @@
+risk_id,risk,likelihood,impact,mitigation
+RSK-01,Inconsistent concepts and definitions,5,5,"Agree classifications, metadata and revision policy before integration"
+RSK-02,Selection and coverage bias,4,5,"Coverage diagnostics, probability samples and domain-specific validation"
+RSK-03,No common identifiers,5,4,Governed linkage design; quantify false matches and exclusions
+RSK-04,Pilot accuracy overgeneralized,4,5,"Independent, geographically stratified validation"
+RSK-05,Weak continuity and staffing,4,4,"Handover, reproducible pipelines and funded operating model"
+RSK-06,Confidentiality or unlawful reuse,3,5,"Legal basis, minimization, access controls and disclosure review"

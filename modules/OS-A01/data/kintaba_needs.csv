@@ -1,0 +1,6 @@
+need_id,decision_need,decision_owner_id,deadline,required_geography,current_gap,priority
+NED-01,Cabinet food-security alert,ACT-06,Six weeks before annual survey release,District,Official survey is too late,5
+NED-02,Reconcile competing maize estimates,ACT-01,Before official release,National and region,4.8m vs 4.2m tonnes; definitions and revisions absent,5
+NED-03,Update agricultural holding frame,ACT-01,Before next survey design,Enumeration area / holding,Old frame and no shared identifiers,4
+NED-04,Monitor crop stress early,ACT-02,Monthly in season,District,Uneven extension and weather coverage,4
+NED-05,Produce inclusive irrigation indicators,ACT-11,Annual planning,District; sex-disaggregated,Small irrigated plots and gender access omitted,4

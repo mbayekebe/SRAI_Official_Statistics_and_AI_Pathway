@@ -1,0 +1,12 @@
+{
+  "expected_tables": 7,
+  "expected_actors": 12,
+  "expected_assets": 10,
+  "expected_flows": 8,
+  "expected_needs": 5,
+  "expected_evidence_items": 8,
+  "expected_risks": 6,
+  "expected_opportunities": 5,
+  "expected_generated_outputs": 7,
+  "result": "PASS"
+}

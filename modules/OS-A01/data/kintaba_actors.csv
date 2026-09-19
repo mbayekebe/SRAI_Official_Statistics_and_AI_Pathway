@@ -1,0 +1,13 @@
+actor_id,actor_name,actor_type,legal_authority,assets_held,coverage_note,primary_role,coordination_score
+ACT-01,National Statistics Directorate,Official statistics,National statistical law; NSS coordination mandate,Agricultural census; annual production survey; holding frame,National; holding frame is old,Producer and coordinator,5
+ACT-02,Ministry of Agriculture Statistics Unit,Sector ministry,Delegated agricultural statistics producer,Seasonal crop estimates; administrative tables,National compilation; regional methods differ,Producer,3
+ACT-03,Agricultural Extension Service,Administrative service,Programme monitoring mandate,Monthly crop-condition forms,Better coverage near roads,Data collector,2
+ACT-04,Land Administration,Administrative service,Land registration mandate,Registered parcel records,Customary holdings often absent,Data custodian,2
+ACT-05,Meteorological Service,Technical agency,Weather observation mandate,82 weather stations,19 stations missing last season,Data producer,3
+ACT-06,National Food-Security Secretariat,Coordination body,Cabinet early-warning mandate,"Integrated crop, market, nutrition and rainfall alerts",National; alerts required before survey results,Integrator and user,4
+ACT-07,Agricultural Research Institute,Research institute,Agricultural research mandate,Crop trials,Six stations and selected fields,Evidence producer,2
+ACT-08,University Geospatial Laboratory,University,Research partnership,Experimental satellite crop maps,Three accessible districts; external funding,Experimental producer,2
+ACT-09,Market Information Service,Sector service,Market monitoring mandate,Weekly market prices,Selected markets reached by phone,Data producer,3
+ACT-10,Mobile Network Operator,Private sector,Telecommunications licence; no standing data agreement,Aggregated mobility and mobile-money indicators,Subscribers and covered areas,Potential data provider,1
+ACT-11,Farmer Organizations,Civil society / producer body,Member representation,Member observations and validation knowledge,Reports omit some small irrigated plots and gender detail,Data subject and user,2
+ACT-12,Government Digital Service,Digital government,Government systems hosting mandate,Platforms and infrastructure,Does not own sector metadata or methods,Technology enabler,3

@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Office temporary files
+~$*
+*.tmp
+
+# Operating systems
+Thumbs.db
+.DS_Store
+
+# Local validation output
+validation-output/
+render-output/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example

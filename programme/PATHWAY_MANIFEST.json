@@ -27,9 +27,9 @@
       "block": "A",
       "sequence": 1,
       "title": "The National Information Ecosystem",
-      "status": "candidate_complete",
-      "release_version": null,
-      "release_tag": null,
+      "status": "release_candidate",
+      "release_version": "0.1.0-rc1",
+      "release_tag": "os-a01-v0.1.0-rc1",
       "website_route": "/official-statistics/modules/a1/",
       "source_baseline_status": "verified",
       "candidate_assets": [
@@ -43,7 +43,10 @@
         "OS-A01-A08",
         "OS-A01-A09",
         "OS-A01-A10"
-      ]
+      ],
+      "video_status": "published",
+      "video_url": "https://youtu.be/TwsjImRahW0",
+      "website_status": "integration_pending"
     }
   ]
 }

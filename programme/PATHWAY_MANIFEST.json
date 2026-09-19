@@ -35,7 +35,13 @@
       "candidate_assets": [
         "OS-A01-A01",
         "OS-A01-A02",
-        "OS-A01-A06"
+        "OS-A01-A03",
+        "OS-A01-A04",
+        "OS-A01-A05",
+        "OS-A01-A06",
+        "OS-A01-A07",
+        "OS-A01-A08",
+        "OS-A01-A09"
       ]
     }
   ]

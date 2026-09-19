@@ -1,0 +1,16 @@
+{
+  "asset_id": "OS-A01-A05",
+  "module_id": "OS-A01",
+  "title": "The National Information Ecosystem",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "slides": 24,
+  "estimated_video_seconds": 1205,
+  "formats": [
+    "PPTX",
+    "PDF"
+  ],
+  "speaker_notes": "Audience narration on every slide",
+  "design_reference": "EP-M03-A05 Executive Presentation v0.1",
+  "source_baseline": "Block_A1_Complete_Teaching_Package_National_Information_Ecosystem_V1.docx"
+}

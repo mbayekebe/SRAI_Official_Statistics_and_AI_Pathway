@@ -1,0 +1,13 @@
+{
+  "asset_id": "OS-A01-A03",
+  "module_id": "OS-A01",
+  "title": "Learner Guide: The National Information Ecosystem",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "source_baseline": "Block_A1_Complete_Teaching_Package_National_Information_Ecosystem_V1.docx",
+  "distribution_boundary": "Learner edition. Facilitator answers and scoring guidance are intentionally excluded.",
+  "formats": [
+    "DOCX",
+    "PDF"
+  ]
+}

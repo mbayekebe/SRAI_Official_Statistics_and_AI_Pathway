@@ -34,5 +34,18 @@
     "referential_integrity": "PASS",
     "laboratory_assertions": "PASS",
     "data_source": "Public synthetic Kintaba datasets from the OS-A01 GitHub repository"
+  },
+  "portable_learner_package": {
+    "version": "0.2",
+    "status": "validated",
+    "path": "modules/OS-A01/release/OS-A01-A06_Portable_Laboratory_v0.2.zip",
+    "sha256": "E5D9F201DE0EF23A34059FC8863E345C5177F36E90E597530EA14186D81A57B6",
+    "notebook_files": 1,
+    "datasets_included": 7,
+    "code_cells_validated": 16,
+    "outputs_validated": 7,
+    "requires_separate_data_download": false,
+    "validation_result": "PASS",
+    "validated_date": "2026-09-19"
   }
 }

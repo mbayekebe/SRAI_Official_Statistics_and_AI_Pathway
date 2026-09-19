@@ -4,7 +4,7 @@ OS-A01-A02,Executive brief,DOCX and PDF,Candidate validated,executive
 OS-A01-A03,Learner guide,DOCX and PDF,Candidate validated,learner
 OS-A01-A04,Facilitator guide,DOCX and PDF,Candidate validated,facilitator
 OS-A01-A05,Lesson presentation,PPTX and PDF,Candidate validated,slides
-OS-A01-A06,Canonical executable notebook,IPYNB,Candidate validated,notebook
+OS-A01-A06,Canonical executable notebook,IPYNB and portable ZIP,Candidate validated,notebook and release
 OS-A01-A07,Exercises,DOCX and PDF,Candidate validated,assessment
 OS-A01-A08,Solutions and decision guide,DOCX and PDF,Candidate validated,assessment
 OS-A01-A09,Assessment pack,DOCX and PDF,Candidate validated,assessment

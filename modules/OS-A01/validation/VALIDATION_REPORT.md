@@ -25,3 +25,17 @@ Validation used a temporary output directory which was removed after verificatio
 - Evidence outputs generated: 7
 - Referential integrity: PASS
 - Laboratory assertions: PASS
+
+## Portable learner package validation
+
+- Package: `OS-A01-A06_Portable_Laboratory_v0.2.zip`
+- Complete package extraction: PASS
+- Packaged notebook present: PASS
+- Packaged synthetic datasets: 7
+- Notebook code cells executed: 16
+- Referential-integrity checks: PASS
+- Laboratory assertions: PASS
+- Generated outputs: 7
+- External data download required: No
+- SHA-256: `E5D9F201DE0EF23A34059FC8863E345C5177F36E90E597530EA14186D81A57B6`
+- Overall portable-package result: **PASS**

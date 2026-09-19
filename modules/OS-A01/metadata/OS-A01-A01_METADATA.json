@@ -1,0 +1,24 @@
+{
+  "asset_id": "OS-A01-A01",
+  "module_id": "OS-A01",
+  "title": "The National Information Ecosystem",
+  "asset_type": "canonical_lesson",
+  "version": "0.1",
+  "status": "candidate_validated",
+  "formats": [
+    "DOCX",
+    "PDF"
+  ],
+  "page_count": 11,
+  "source_baseline": "Block_A1_Complete_Teaching_Package_National_Information_Ecosystem_V1.docx",
+  "learner_boundary": "Facilitator preparation, answer guide, rubric, reusable templates and release controls excluded.",
+  "generated_utc": "2026-09-19T14:19:41.887330+00:00",
+  "installation_validation": {
+    "result": "PASS",
+    "validated_date": "2026-09-19",
+    "docx_hash_match": true,
+    "pdf_hash_match": true,
+    "metadata_hash_match": true,
+    "validation_report_hash_match": true
+  }
+}

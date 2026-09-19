@@ -33,6 +33,7 @@
       "website_route": "/official-statistics/modules/a1/",
       "source_baseline_status": "verified",
       "candidate_assets": [
+        "OS-A01-A01",
         "OS-A01-A06"
       ]
     }

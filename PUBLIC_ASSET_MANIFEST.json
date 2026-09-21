@@ -1,8 +1,8 @@
 {
   "module": "OS-A01",
-  "version": "1.0 local staging",
+  "version": "1.0",
   "future_tag": "os-a01-v1.0.0",
-  "status": "local preview; not published",
+  "status": "release candidate; publication pending",
   "assets": [
     {
       "key": "lesson",
